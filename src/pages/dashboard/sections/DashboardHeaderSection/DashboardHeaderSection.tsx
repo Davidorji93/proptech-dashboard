@@ -12,7 +12,7 @@ import WalletIcon from "../../../../assets/wallet-2.png";
 import ShoppingBagIcon from "../../../../assets/Marketplace.png";
 
 // Navigation image icons
-import ListingIcon from "../../../../assets/Listing.png";
+import ListingIcon from "../../../../assets/listing.png";
 import UserIcon from "../../../../assets/userIcon.png";
 import RequestIcon from "../../../../assets/Article.png";
 import ApplicationIcon from "../../../../assets/Scroll.png";
